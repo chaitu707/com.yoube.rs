@@ -13,5 +13,11 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/jereyjaxrs-ri-2.13/jaxrs-ri/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/jereyjaxrs-ri-2.13/jaxrs-ri/lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/jereyjaxrs-ri-2.13/jaxrs-ri/lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/jereyjaxrs-ri-2.13/jaxrs-ri/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="F:/SOFTWARES/jereyjaxrs-ri-2.13/jersey-bundle-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Chaitu/Downloads/Compressed/appengine-testing-1.4.3.jar/appengine-testing-1.4.3.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
